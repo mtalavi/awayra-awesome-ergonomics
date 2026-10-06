@@ -22,4 +22,6 @@ For my personal implementation and real-world setup (keymaps, workflows, and con
 
 ## Software
 
+- [Awayra](https://awayra.github.io/AWAYRA-WPF/) — Open-source Windows app with separate eye-rest and movement break reminders.
+
 - [stretchly](https://github.com/hovancik/stretchly) — App that reminds you to take breaks when working on your computer
